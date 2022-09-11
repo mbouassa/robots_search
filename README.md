@@ -1,7 +1,4 @@
-# robofriends
-Tutorial for React
-To run the project:
+# Robot Search
+Link to the web app: https://mbouassa.github.io/robots_search/
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+I used React to create a web app that searches for robots.
